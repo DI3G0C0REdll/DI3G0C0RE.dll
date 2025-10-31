@@ -19,31 +19,32 @@
 ## <span style="color:#00ff9d;">👨‍💻 Sobre Mí</span>
 
 ```lua
+
 Citizen.CreateThread(function()
     local d3c = {
         tag   = "! DI3G0C0RE.dll",
         title = "Desarrollador FiveM • Full Stack",
-        summary = "Desarrollo de sistemas para servidores FiveM, Discord y creación/curación de packs de ropa (integración)",
+        summary = "Desarrollo sistemas para servidores FiveM, automatizo comunidades en Discord y preparo packs de ropa listos para integrarse.",
         skills = { "Lua", "JavaScript", "Discord API", "QBCore", "ESX", "SQL" },
 
         services = {
             development = {
-                "Jobs creator, drug system, HTML",
-                "Integración de UI / menús de usuario",
-                "Automatizaciones y bots para Discord",
-                "Creando lo que piensas",
-                "Fomentando el crecimiento de servidores rp"
+                "Implementación de Jobs creator y drug system con lógica optimizada en Lua",
+                "Integración de UI y menús de usuario basados en HTML/CSS/JS",
+                "Automatizaciones y bots para Discord conectados vía API y eventos",
+                "Traducir ideas de gameplay en scripts robustos y mantenibles",
+                "Fomentar el crecimiento de servidores RP mediante contenido modular"
             },
 
             clothing = {
-                description = "Agrupo y preparo packs de ropa existentes (EUP / MP), recolor, presets por género y tiendas integradas.",
+                description = "Agrupo y preparo packs de ropa existentes (EUP / MP), recolor, presets por género y tiendas integradas listas para producción.",
                 integrations = { "illenium-appearance", "rcore-clothing" }
             },
 
             operations = {
-                "Optimización de servidor y base de datos",
-                "Revisión de rendimiento (OneSync, profiling)",
-                "Soporte y despliegue"
+                "Optimización del servidor y la base de datos (profiling, índices, caching)",
+                "Revisión de rendimiento en entornos OneSync y monitoreo continuo",
+                "Soporte técnico y despliegues controlados con documentación"
             }
         },
 
@@ -54,7 +55,6 @@ Citizen.CreateThread(function()
         Wait(0)
     end
 end)
-
 
 ```
 
