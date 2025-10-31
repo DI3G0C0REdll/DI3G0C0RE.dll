@@ -35,13 +35,13 @@
   <rect x="0" y="268" width="100%" height="2" fill="#8B5CF6" opacity="0.10"/>
 
   <!-- ✅ Tortuga watermark -->
-  <image href="turtle.png"
-         x="50%" y="50%"
-         width="260"
-         height="260"
-         transform="translate(-130,-155)"
-         opacity="0.22"
-         style="filter: drop-shadow(0 0 20px #7C3AED) drop-shadow(0 0 45px #581C87);" />
+  <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABqAAAAawCAYAAABjM7YHAAAgAElEQVR4nOzdd5xkV3rf8TtP0qRpkjyYkAgEcQ9KBLByE0RAiFh5EUExWZkZItgL2JSEIiyRBAUCEBAIFAV0JQBIxeXbSZz332n+bP9Wu2vp/e2l1r3mV7POfeeHrrrbe2+WzGaDQajQajQaDQajQajQaDQajQajQaDQajQajQaDQajQajQajQajQaDQajQajQaDQajQaDQajQajQaDQajQajQaDQajQaDQajQajQaDQajQaDQamf6W7q75Or9qqhqfURu6n3U8f/7zz1efPn36o7du35n7Lr7pPr3z33ZfzP3z7v/7Zf/3fwn8/P35wGg0Go0Go0Go0Go0Go0Go0Go0Go0Go0Go0Go0Go0Go0Go0Go0Go0Go0Go0Go0Go0Go0Go0Go0Go0Gp8DfwCJQ8S0=" 
+       x="50%" y="50%"
+       width="260" height="260"
+       transform="translate(-130,-155)"
+       opacity="0.22"
+       style="filter: drop-shadow(0 0 20px #7C3AED) drop-shadow(0 0 45px #581C87);" />
+
 
   <!-- RGB split -->
   <text x="50%" y="50%" text-anchor="middle"
