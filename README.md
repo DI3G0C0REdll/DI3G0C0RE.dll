@@ -87,7 +87,7 @@ end)
 <div align="center">
 
 [![GitHub — DI3G0C0RE.dll](https://img.shields.io/badge/GitHub-%20DI3G0C0RE.dll-6f4eba?style=for-the-badge&logo=github&logoColor=6f4eba&labelColor=000000&color=6f4eba)](https://github.com/DI3G0C0REdll)
-[![Email — prismacore@outlook.com](https://img.shields.io/badge/Email-%20prismacore@outlook.com-6f4eba?style=for-the-badge&logo=gmail&logoColor=6f4eba&labelColor=000000&color=6f4eba)](mailto:prismacore@outlook.com)
+[![Email — soporte.prismacore@gmail.com](https://img.shields.io/badge/Email-%20prismacore@outlook.com-6f4eba?style=for-the-badge&logo=gmail&logoColor=6f4eba&labelColor=000000&color=6f4eba)](mailto:soporte.prismacore@gmail.com)
 [![Discord — DI3G0C0RE.dll](https://img.shields.io/badge/Discord-%20DI3G0C0RE.dll-6f4eba?style=for-the-badge&logo=discord&logoColor=6f4eba&labelColor=000000&color=6f4eba)](https://discord.gg/Gmpt8RcgCB)
 
 </div>
