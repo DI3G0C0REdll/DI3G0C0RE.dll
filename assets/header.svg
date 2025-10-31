@@ -72,5 +72,16 @@
     <animate attributeName="x" values="200;1200" dur="2.2s" fill="freeze"/>
     <animate attributeName="opacity" values="1;0;1;0" dur="0.8s" begin="2.2s" repeatCount="indefinite"/>
   </rect>
-
+  <!-- Subtítulo con glow y fade-in después del typing -->
+<g filter="url(#glow)">
+  <text x="50%" y="62%"
+        text-anchor="middle"
+        font-family="JetBrains Mono, monospace"
+        font-size="28" font-weight="700"
+        fill="#C4B5FD" opacity="0">
+    Desarrollador FiveM &amp; Full Stack
+    <animate attributeName="opacity" values="0;1" begin="2.2s" dur="0.6s" fill="freeze"/>
+  </text>
+</g>
+  
 </svg>
