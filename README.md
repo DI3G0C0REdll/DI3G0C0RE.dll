@@ -16,7 +16,7 @@
   <h3>Desarrollador FiveM & Full Stack</h3>
 </div>
 
-## <span style="color:#00ff9d;">Sobre Mí</span>
+## <span style="color:#00ff9d;">👨‍💻 Sobre Mí</span>
 
 ```lua
 Citizen.CreateThread(function()
