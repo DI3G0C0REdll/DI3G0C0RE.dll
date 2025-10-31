@@ -38,3 +38,14 @@ Citizen.CreateThread(function()
         Wait(0)
     end
 end)
+```
+## <span style="color:#00ff9d;">🛠️ Tecnologías & Herramientas</span>
+
+<div align="center">
+
+| FiveM | Lenguajes | Bases de Datos | Herramientas |
+| --- | --- | --- | --- |
+| • ESX Framework<br>• QBCore Framework<br>• vRP Framework<br>• OneSync<br>• FXServer<br>• NUI Development | • Lua<br>• JavaScript<br>• HTML/CSS<br>• SQL<br>• Node.js<br>• React | • MySQL<br>• MongoDB<br>• SQLite<br>• Redis | • Git<br>• VS Code<br>• Xdebug<br>• Docker<br>• txAdmin<br>• Postman |
+
+</div>
+
