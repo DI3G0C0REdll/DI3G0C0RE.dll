@@ -68,6 +68,7 @@ end)
 <div align="center" style="margin-top:12px;">
 
 [![Visitar mi servidor](https://img.shields.io/badge/🔗%20Conoce%20Prisma%20Core-6f4eba?style=for-the-badge&labelColor=000000&color=6f4eba)](https://tuservidor_enlace.com)
+[![Unete al Discord](https://img.shields.io/badge/💬%20Unirte%20a%20Discord-6f4eba?style=for-the-badge&labelColor=000000&color=6f4eba)](https://discord.gg/Gmpt8RcgCB)
 
 </div>
 
