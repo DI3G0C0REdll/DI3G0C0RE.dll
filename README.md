@@ -21,11 +21,11 @@
 ```lua
 Citizen.CreateThread(function()
     local developer = {
-        name = "TuNombre",
+        name = "! 𝐃𝐈𝟑𝐆𝟎𝐂𝟎𝐑𝐄.𝐝𝐥𝐥",
         role = "FiveM & Full Stack Developer",
         skills = {
             "Lua", "JavaScript", "HTML/CSS",
-            "ESX Framework", "QBCore", "vRP",
+            "ESX Framework", "QBCore",
             "OneSync", "Server Optimization"
         },
         passion = "Construir experiencias de roleplay inmersivas",
