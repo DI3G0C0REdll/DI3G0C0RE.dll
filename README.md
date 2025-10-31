@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <h3>Desarrollador FiveM & Full Stack</h3>
+  <h3>Desarrollador FiveM Lead Dev · Automations & Tools</h3>
 </div>
 
 ## <span style="color:#00ff9d;">👨‍💻 Sobre Mí</span>
