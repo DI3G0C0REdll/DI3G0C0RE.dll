@@ -49,3 +49,27 @@ end)
 
 </div>
 
+## <span style="color:#00ff9d;">📬 Contacto</span>
+
+<div align="center">
+
+<a href="https://github.com/DI3G0C0RE" style="text-decoration:none; margin:0 4px;">
+  <img src="https://img.shields.io/badge/GitHub-_-000000?style=for-the-badge&logo=github&logoColor=6f4eba&labelColor=000000&color=6f4eba" alt="GitHub">
+</a>
+<a href="https://github.com/DI3G0C0RE" style="text-decoration:none; margin:0 4px;">
+  <img src="https://img.shields.io/badge/DI3G0C0RE.dll-6f4eba?style=for-the-badge&labelColor=000000&color=6f4eba" alt="GitHub Username">
+</a>
+<a href="mailto:prismacore@outlook.com" style="text-decoration:none; margin:0 4px;">
+  <img src="https://img.shields.io/badge/Email-_-000000?style=for-the-badge&logo=gmail&logoColor=6f4eba&labelColor=000000&color=6f4eba" alt="Email">
+</a>
+<a href="mailto:prismacore@outlook.com" style="text-decoration:none; margin:0 4px;">
+  <img src="https://img.shields.io/badge/prismacore@outlook.com-6f4eba?style=for-the-badge&labelColor=000000&color=6f4eba" alt="Dirección de correo">
+</a>
+<a href="https://discord.gg/Gmpt8RcgCB" style="text-decoration:none; margin:0 4px;">
+  <img src="https://img.shields.io/badge/Discord-_-000000?style=for-the-badge&logo=discord&logoColor=6f4eba&labelColor=000000&color=6f4eba" alt="Discord">
+</a>
+<a href="https://discord.gg/Gmpt8RcgCB" style="text-decoration:none; margin:0 4px;">
+  <img src="https://img.shields.io/badge/DI3G0C0RE.dll-6f4eba?style=for-the-badge&labelColor=000000&color=6f4eba" alt="Discord Username">
+</a>
+
+</div>
