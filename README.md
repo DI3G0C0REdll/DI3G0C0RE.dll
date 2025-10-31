@@ -57,6 +57,20 @@ end)
 
 
 ```
+
+
+## <span style="color:#00ff9d;">🚀 Actualidad</span>
+
+- 🔧 Actualmente desarrollo, configuro y optimizo servidores **FiveM** a medida, desde la infraestructura hasta paquetes de ropa.
+- 🛒 Ofrezco paquetes listos para lanzar (pquetes de ropa, scripts compatibles con diferentes frameworks, bots de discord enfocados al RP) y servicios de mantenimiento continuo para comunidades que quieren crecer sin preocuparse del backend.
+- 🤝 ¿Buscas un servidor único o necesitas soporte para el tuyo? Estaré encantado de ayudarte.
+
+<div align="center" style="margin-top:12px;">
+
+[![Visitar mi servidor](https://img.shields.io/badge/🔗%20Conoce%20Prisma%20Core-6f4eba?style=for-the-badge&labelColor=000000&color=6f4eba)](https://tuservidor_enlace.com)
+
+</div>
+
 ## <span style="color:#00ff9d;">🛠️ Tecnologías & Herramientas</span>
 
 <div align="center">
