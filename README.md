@@ -20,24 +20,42 @@
 
 ```lua
 Citizen.CreateThread(function()
-    local developer = {
-        name = "! 𝐃𝐈𝟑𝐆𝟎𝐂𝟎𝐑𝐄.𝐝𝐥𝐥",
-        role = "FiveM & Full Stack Developer",
-        skills = {
-            "Lua", "JavaScript", "HTML/CSS",
-            "ESX Framework", "QBCore",
-            "OneSync", "Server Optimization"
+    local d3c = {
+        tag   = "! DI3G0C0RE.dll",
+        title = "Desarrollador FiveM • Full Stack",
+        summary = "Desarrollo de sistemas para servidores FiveM, Discord y creación/curación de packs de ropa (integración)",
+        skills = { "Lua", "JavaScript", "Discord API", "QBCore", "ESX", "SQL" },
+
+        services = {
+            development = {
+                "Jobs creator, drug system, HTML",
+                "Integración de UI / menús de usuario",
+                "Automatizaciones y bots para Discord",
+                "Creando lo que piensas",
+                "Fomentando el crecimiento de servidores rp"
+            },
+
+            clothing = {
+                description = "Agrupo y preparo packs de ropa existentes (EUP / MP), recolor, presets por género y tiendas integradas.",
+                integrations = { "illenium-appearance", "rcore-clothing" }
+            },
+
+            operations = {
+                "Optimización de servidor y base de datos",
+                "Revisión de rendimiento (OneSync, profiling)",
+                "Soporte y despliegue"
+            }
         },
-        passion = "Construir experiencias de roleplay inmersivas",
-        current_focus = "Sistemas económicos avanzados y frameworks de jobs"
+
+        focus = "Crear soluciones listas para usar y fáciles de instalar"
     }
 
     while true do
-        ImproveSkills(developer)
-        CreateAwesomeScripts(developer)
         Wait(0)
     end
 end)
+
+
 ```
 ## <span style="color:#00ff9d;">🛠️ Tecnologías & Herramientas</span>
 
