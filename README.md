@@ -1,7 +1,7 @@
 # <span style="color:#00ff9d;"># DI3G0C0RE.dll</span>
 
 <div align="center">
-  <img src="./assets/header.svg" width="100%" /> <image href="turtle.png"
+  <img src="./assets/header.svg" width="100%" />
 </div>
 
 <div align="center">
