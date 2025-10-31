@@ -61,9 +61,9 @@ end)
 
 <div align="center">
 
-| FiveM | Lenguajes | Bases de Datos | Herramientas |
-| --- | --- | --- | --- |
-| • ESX Framework<br>• QBCore Framework<br>• vRP Framework<br>• OneSync<br>• FXServer<br>• NUI Development | • Lua<br>• JavaScript<br>• HTML/CSS<br>• SQL<br>• Node.js<br>• React | • MySQL<br>• MongoDB<br>• SQLite<br>• Redis | • Git<br>• VS Code<br>• Xdebug<br>• Docker<br>• txAdmin<br>• Postman |
+| FiveM | Lenguajes | Discord Bots & Tiempo Real | Bases de Datos | Herramientas |
+| --- | --- | --- | --- | --- |
+| • ESX Framework<br>• QBCore Framework<br>• OneSync<br>• FXServer<br>• NUI Development | • Lua<br>• JavaScript / TypeScript<br>• HTML / CSS<br>• **Python**<br>• SQL<br>• Node.js<br>• React | • discord.js (Node.js)<br>• PyCord / discord.py (Python)<br>• WebSockets<br>• REST APIs<br>• OAuth2<br>• Event-driven Architectures | • MySQL<br>• MariaDB<br>• MongoDB<br>• PostgreSQL<br>• SQLite<br>• Redis | • Git & GitHub<br>• VS Code<br>• Sublime Text<br>• Docker<br>• txAdmin<br>• PM2 / Supervisor |
 
 </div>
 
